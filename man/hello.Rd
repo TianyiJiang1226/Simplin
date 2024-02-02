@@ -1,0 +1,12 @@
+\name{SimpLinR}
+\alias{SimpLinR}
+\title{SimpLinR}
+\usage{
+SimpLinR(x,y)
+}
+\description{
+SimpLinR
+}
+\examples{
+SimpLinR(c(1,2,3),c(2,5,3))
+}
