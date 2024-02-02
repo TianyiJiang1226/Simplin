@@ -4,3 +4,4 @@ SimpLinR = function(X,Y){
   }
 }
 
+
